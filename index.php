@@ -48,7 +48,7 @@ get_header();
 	</div>
 	</div>
 
-	<div class="food-title">Menu</div>
+	<div class="food-title" id="test">Menu</div>
 
 	<div class="food-grid" id="food">
 		<?php
