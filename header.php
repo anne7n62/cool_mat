@@ -54,7 +54,7 @@
 		</nav><!-- #site-navigation -->
 
 		<div class="language-select">
-			KOR / EN
+			KR / EN
 		</div>
 		</div>	
 	</header><!-- #masthead -->
